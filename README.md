@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Currently None](None)
 
-- 🌱 I’m currently learning **java, computer networks**
+- 🌱 I’m currently learning **java, computer networks, software engineering**
 
 - 👯 I’m looking to collaborate on [Currently None](None)
 
