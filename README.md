@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gokul Krishnan</h1>
-<h3 align="center">I am an ungraduated student who has been studying and researching to get a good job.</h3>
+<h3 align="center"> Final year Bca student focusing on learning and implementing machine learning models. Also currently doing projects in these fields.</h3>
 
 - 🔭 I’m currently working on [Currently None](None)
 
-- 🌱 I’m currently learning **java, computer networks, software engineering**
+- 🌱 I’m currently learning **Machine Learning , AI and Android development**
 
 - 👯 I’m looking to collaborate on [Currently None](None)
 
