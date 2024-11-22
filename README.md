@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , AI and Android development**
 
-- 👯 I’m looking to collaborate on [Currently None](None)
+- 👯 I’m looking to collaborate on Small projects in ml/ai
 
 - 🤝 I’m looking for help with [Currently None](None)
 
